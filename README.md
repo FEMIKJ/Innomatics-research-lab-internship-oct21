@@ -1,4 +1,4 @@
-<img align = right height = 500 width = 120 src = https://www.innomatics.in/wp-content/uploads/2020/04/innomatics-research-labs-logo-squared.png>
+<img align = right height = 120 width = 120 src = https://www.innomatics.in/wp-content/uploads/2020/04/innomatics-research-labs-logo-squared.png>
 
 #  The Sparks Foundation Tasks
 
